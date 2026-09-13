@@ -1,4 +1,5 @@
 <img width="5096" height="2160" alt="image" src="https://github.com/user-attachments/assets/5cb95172-62f5-4051-946c-7c3dd8e75cd6" />
+<sub>낯선 동네에서 우연히 받았던 꽃</sub>
 
 # @whoisapple
 ## 이쁜 것과 유용한 것을 보고 쓰고 만드는 것을 좋아합니다.
